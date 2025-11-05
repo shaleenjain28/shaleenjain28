@@ -1,72 +1,71 @@
-<h1 align="center">👋 Hey, I'm <strong>Shaleen Jain</strong></h1>
+<!-- GitHub Profile README | Dark Premium Edition -->
+
+<h1 align="center">Shaleen Jain</h1>
+
 <p align="center">
-  <b>Backend Engineer</b> · Java | Spring Boot | SQL | System Design  
+  <b>Backend Engineer</b> — Java • Spring Boot • SQL • System Design  
   <br/>
-  Building scalable backend systems & clean architectural foundations.
+  Crafting scalable systems with clean architecture and thoughtful engineering.
 </p>
 
 ---
 
-### 🧭 About Me
-- 🎓 B.Tech CSE @ Manipal University Jaipur (2023–2027)  
-- 💻 Focused on **Backend Development, Database Design, and System Scalability**  
-- 🔧 I care about **readable APIs, efficient queries, and modular software architecture**  
-- 🌱 Currently working on **enterprise-grade ERP backend systems**  
+### 🧭 Introduction
+I build backend systems that are **structured, predictable, and efficient**.  
+My work focuses on:
+- Clear API design
+- Database modeling & query optimization
+- Scalable, maintainable service architecture
+
+I care about engineering discipline.  
+Readable code > clever code.
 
 ---
 
-### 🏗️ Projects I’m Working On
+### 🏗️ Core Projects
 
-| Project | Stack | Summary |
-|--------|-------|---------|
-| **ERP-SYS** | Spring Boot · PostgreSQL · React · TypeScript · Turborepo | University ERP platform — building backend modules, authentication, KPI workflows, and scalable API layers in a monorepo architecture. |
-| **Spendr** | Spring Boot · MySQL · React | Personal finance application focusing on expense management, spending analytics, and goal-based budgeting dashboards. |
-| **CivicConnect** | Spring Boot · PostgreSQL · React | Smart-city platform enabling citizen service requests, status tracking, and admin response workflows with structured API design. |
+| Name | Tech | What It Does |
+|---|---|---|
+| **ERP-SYS** | Spring Boot • PostgreSQL • React • TypeScript • Turborepo | ERP system with KPI management, authentication, and modular backend architecture. |
+| **Spendr** | Spring Boot • MySQL • React | Personal finance app with analytics dashboards & expense categorization. |
+| **CivicConnect** | Spring Boot • PostgreSQL • React | Smart-city service portal for citizen complaints, request tracking, and admin resolution workflows. |
 
-> All projects emphasize **backend clarity**, **database correctness**, and **scalable architecture**.
+> All projects emphasize backend clarity, modular design, and ability to scale.
 
 ---
 
 ### 🧰 Tech Stack
-
-**Languages:**  
-Java • C++ • JavaScript • TypeScript
-
-**Backend & APIs:**  
-Spring Boot • RESTful APIs • Microservice Basics • JPA/Hibernate
-
-**Frontend (for integration):**  
-React • Next.js • TailwindCSS • shadcn/ui
-
-**Databases:**  
-MySQL • PostgreSQL • Prisma ORM (for TypeScript services) • Redis (learning)
-
-**Tools & Workflow:**  
-Git • GitHub • Postman • Docker (basic) • Linux Shell • VS Code • Turborepo
+**Languages:** Java, C++, TypeScript, JavaScript  
+**Backend:** Spring Boot, REST APIs, JPA/Hibernate, Microservice Patterns  
+**Frontend (for integration):** React, Next.js, Tailwind, shadcn/ui  
+**Databases:** MySQL, PostgreSQL, Prisma ORM, Redis (learning)  
+**Tools:** Git, GitHub, Turborepo, Postman, Docker (basic), Linux Shell
 
 ---
 
-### 🧠 Currently Learning
-- Database optimization (indexes, query tuning, caching strategies)  
-- Role-based auth flows & API security best practices  
-- Clean project structuring + monorepo patterns  
-- System Design at a practical, implementation-first level  
+### 🧠 Currently Focused On
+- API security & authentication flows
+- Pagination, filtering, caching patterns
+- Query optimization and data indexing strategies
+- Real-world system design principles
 
 ---
 
-### 📈 GitHub Insights
+### 📈 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaleenjain28&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaleenjain28&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shaleenjain28&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaleenjain28&theme=dark&hide_border=true" height="165" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
-<a href="mailto:shaleenjain2528@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/shaleen-jain-34b807243/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/shaleenjain28"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+### 🤝 Connect
+<p align="center">
+  <a href="mailto:shaleenjain2528@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/shaleen-jain-34b807243/">LinkedIn</a> •
+  <a href="https://github.com/shaleenjain28">GitHub</a>
+</p>
 
 ---
 
-<p align="center"><i>“Backend is not just code — it’s strategy, structure, and clarity.”</i></p>
+<p align="center"><i>"Backend is architecture, not just code."</i></p>
