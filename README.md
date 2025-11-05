@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="600" alt="Backend Developer Coding GIF">
+</p>
+
+<p align="center">
   <i>"Backend is architecture, not just code."</i>
 </p>
 
@@ -29,7 +33,7 @@ I'm a backend engineer focused on building systems that are **structured, predic
 
 ### 🛠️ My Tech Stack
 
-My toolkit for building and integrating systems.
+My toolkit for building and integrating systems. (Copy badges from here!)
 
 <table>
   <tr>
@@ -88,17 +92,14 @@ All projects emphasize backend clarity, modular design, and the ability to scale
 
 | Name | Description | Tech Stack (Badges) | Links |
 |---|---|---|---|
-| **ERP-SYS** | ERP system with KPI management, auth, and modular backend architecture. | <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" /> | `[Code]` |
-| **Spendr** | Personal finance app with analytics dashboards & expense categorization. | <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> | `[Code]` |
-| **CivicConnect** | Smart-city portal for citizen complaints, tracking, & admin workflows. | <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> | `[Code]` |
+| **ERP-SYS** | ERP system with KPI management, auth, and modular backend architecture. | **[Add Badges Here]** | `[Code]` |
+| **Spendr** | Personal finance app with analytics dashboards & expense categorization. | **[Add Badges Here]** | `[Code]` |
+| **CivicConnect** | Smart-city portal for citizen complaints, tracking, & admin workflows. | **[Add Badges Here]** | `[Code]` |
 
 ---
 
-### 🏆 Trophies & Activity
+### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaleenjain28&theme=radical&hide_border=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaleenjain28&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="Shaleen's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shaleenjain28&theme=github_dark&hide_border=true" height="165" alt="Shaleen's GitHub Streak" />
