@@ -94,6 +94,8 @@ All projects emphasize backend clarity, database correctness, and scalable archi
 
 ---
 
+---
+
 ### 🧠 Currently Learning
 - Database optimization (indexes, query tuning, caching strategies)  
 - Role-based auth flows & API security best practices  
@@ -130,26 +132,14 @@ All projects emphasize backend clarity, database correctness, and scalable archi
 
 ### 🤝 Let's Connect
 
-
-
 <p align="center">
-
   <a href="https://www.linkedin.com/in/shaleen-jain-34b807243/">
-
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-
   </a>
-
   <a href="mailto:shaleenjain2528@gmail.com">
-
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-
   </a>
-
   <a href="https://github.com/shaleenjain28">
-
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
   </a>
-
 </p>
