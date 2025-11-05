@@ -8,6 +8,11 @@
   <i>"Backend is architecture, not just code."</i>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaleenjain28&label=PROFILE+VIEWS&style=for-the-badge&color=06B6D4" alt="Profile Views" />
+</p>
+
+
 ---
 
 ### 🚀 About Me
@@ -28,9 +33,17 @@ My toolkit for building and integrating systems.
 
 <table>
   <tr>
-    <td align="center" width="160"><strong>Backend</strong></td>
+    <td align="center" width="160"><strong>Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td>
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
       <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
       <img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
@@ -50,8 +63,8 @@ My toolkit for building and integrating systems.
     <td>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
     </td>
   </tr>
   <tr>
@@ -59,6 +72,7 @@ My toolkit for building and integrating systems.
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -80,12 +94,18 @@ All projects emphasize backend clarity, modular design, and the ability to scale
 
 ---
 
-### 📈 GitHub Overview
+### 🏆 Trophies & Activity
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shaleenjain28&theme=radical&hide_border=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaleenjain28&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="Shaleen's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shaleenjain28&theme=github_dark&hide_border=true" height="165" alt="Shaleen's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaleenjain28&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Shaleen's Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github.com/shaleenjain28/shaleenjain28/blob/output/github-contribution-grid-snake.svg?raw=true" alt="GitHub Contribution Snake" />
 </p>
 
 ---
