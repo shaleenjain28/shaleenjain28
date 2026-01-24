@@ -44,7 +44,6 @@ My toolkit for building and integrating systems.
     <td align="center"><strong>Backend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
       <img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
     </td>
   </tr>
