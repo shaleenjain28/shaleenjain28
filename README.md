@@ -107,35 +107,9 @@ All projects emphasize backend clarity, database correctness, and scalable archi
 
 | Name | Description | Tech Stack (Badges) |
 |---|---|---|
-| **ERP-SYS** |Enterprise workflow management platform supporting KPI assignment, approval workflows, role-based access control, academic performance tracking, and multi-stakeholder operations within a Turborepo-based monorepo architecture. | <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/RBAC-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" /> |
-| **SochUPI** | AI-powered student finance management platform that tracks expenses through UPI transaction parsing, provides spending insights, goal-based savings plans, and personalized budgeting recommendations for students. |  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" /> |
-| **CivicConnect** |Geo-aware civic issue management platform supporting issue reporting, workflow-driven resolution processes, location-based discovery, departmental routing, notifications, and community participation.| <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/GeoHash-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" />|
-
----
+| **ERP-SYS** |Enterprise workflow management platform supporting KPI assignment, approval workflows, role-based access control, academic performance tracking, and multi-stakeholder operations within a Turborepo-based monorepo architecture. | <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" /><img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma" /><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql" /><img src="https://img.shields.io/badge/JWT-000000?style=flat-square" /><img src="https://img.shields.io/badge/RBAC-7C3AED?style=flat-square" /><img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" /><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss" /><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" /> |
+| **SochUPI** | AI-powered student finance management platform that tracks expenses through UPI transaction parsing, provides spending insights, goal-based savings plans, and personalized budgeting recommendations for students. |  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring" /><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql" /><img src="https://img.shields.io/badge/JWT-000000?style=flat-square" /><img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" /><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" /><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss" /><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" /> |
+| **CivicConnect** |Geo-aware civic issue management platform supporting issue reporting, workflow-driven resolution processes, location-based discovery, departmental routing, notifications, and community participation.| <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring" /><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql" /><img src="https://img.shields.io/badge/JWT-000000?style=flat-square" /><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><img src="https://img.shields.io/badge/GeoHash-2563EB?style=flat-square" /><img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch" /><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" />|
 
 ---
 
@@ -182,8 +156,6 @@ All projects emphasize backend clarity, database correctness, and scalable archi
 
 
 ---
-
-
 
 ### 🤝 Let's Connect
 
