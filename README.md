@@ -147,11 +147,7 @@ All projects emphasize backend clarity, database correctness, and scalable archi
 
 </p>
 
-<p align="center">
 
-  <img src="https://github.com/shaleenjain28/shaleenjain28/blob/output/github-contribution-grid-snake.svg?raw=true" alt="GitHub Contribution Snake" />
-
-</p>
 
 
 
